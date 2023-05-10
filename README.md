@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Karmanya, I'm a machine learning engineer that created the first publically available UFC fight stats dataset [Kaggle](https://www.kaggle.com/datasets/calmdownkarm/ufcdataset). 
+My name is Karmanya, I'm a machine learning engineer that created the first publically available UFC fight stats dataset [\(Kaggle\)](https://www.kaggle.com/datasets/calmdownkarm/ufcdataset). 
 
 I graduated with my Master's Degree from The University of Pennsylvania, where I pushed the boundaries of Large Language Models by getting them to play Dungeons and Dragons, and explored the evolution of news narratives across publishers and time
 
